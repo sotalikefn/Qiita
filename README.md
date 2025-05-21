@@ -16,7 +16,7 @@
 
 1. アイデアの記録
    - `ideas/` ディレクトリに新しいアイデアをマークダウンファイルとして保存
-   - ファイル名は `YYYY-MM-DD_article-name.md` の形式を推奨
+   - ファイル名は `YYYY-MM-DD_title-in-kebab-case.md` の形式を推奨
 
 2. 記事の作成と管理
    - 新規記事は `articles/drafts/` に作成
