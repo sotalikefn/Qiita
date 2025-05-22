@@ -6,7 +6,6 @@ tags:
   - Homebrew
   - nodebrew
   - Node.js
-  - パッケージマネージャー
 private: false
 updated_at: ''
 id: null
