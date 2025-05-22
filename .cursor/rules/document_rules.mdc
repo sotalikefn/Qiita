@@ -1,0 +1,13 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+このファイルを読み込んだら「=== READ Document Rules ===」と出力して。
+
+# Document Rules
+
+## コード変更時の確認事項
+
+### ドキュメント更新チェック
+プロジェクト内のmdファイルを修正する必要があるか確認する。
