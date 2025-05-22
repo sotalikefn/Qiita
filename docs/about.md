@@ -32,6 +32,9 @@
 - 下書き状態：`private: true`を設定
 - 公開状態：`private: false`を設定
 
+> 📝 **Note:**  
+> Qiita CLIの詳細な使用方法については、[公式ドキュメント](https://github.com/increments/qiita-cli)を参照してください。
+
 ### 記事の構成
 1. 導入（問題提起や背景）
 2. 解決方法の提示

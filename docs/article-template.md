@@ -4,7 +4,8 @@ tags:
   - タグ1
   - タグ2
 private: true
-updated_at: 'YYYY-MM-DDTHH:ii:ss+09:00'
+updated_at: ''
+id: null
 organization_url_name: null
 slide: false
 ignorePublish: false
