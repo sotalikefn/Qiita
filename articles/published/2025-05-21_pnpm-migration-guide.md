@@ -1,5 +1,5 @@
 ---
-title: "nodebrewユーザーのためのnpmからpnpmへの移行ガイド"
+title: nodebrewユーザーのためのnpmからpnpmへの移行ガイド
 tags:
   - npm
   - pnpm
@@ -7,7 +7,10 @@ tags:
   - Node.js
   - パッケージマネージャー
 private: true
-published_at: 2025-05-21
+updated_at: '2025-05-21T10:00:00+09:00'
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 
 ## はじめに

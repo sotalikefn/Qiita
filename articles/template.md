@@ -1,10 +1,13 @@
 ---
-title: "記事のタイトル"
+title: 記事のタイトル
 tags:
   - タグ1
   - タグ2
 private: true
-published_at: YYYY-MM-DD
+updated_at: 'YYYY-MM-DDTHH:ii:ss+09:00'
+organization_url_name: null
+slide: false
+ignorePublish: false
 ---
 
 ## はじめに
