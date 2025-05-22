@@ -1,14 +1,14 @@
 ---
 title: 【やっと】npmからpnpmへ移行【Homebrew & nodebrew環境での導入方法】
 tags:
-  - npm
-  - pnpm
-  - Homebrew
-  - nodebrew
   - Node.js
+  - homebrew
+  - npm
+  - nodebrew
+  - pnpm
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-05-22T11:19:12+09:00'
+id: 8c6e9ea7ff74a1ffbaa3
 organization_url_name: null
 slide: false
 ignorePublish: false
