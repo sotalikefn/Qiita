@@ -25,9 +25,12 @@
 
 ## 記事作成のガイドライン
 ### 記事の形式
+- テンプレート：`docs/article-template.md`を使用して新規記事を作成
 - ファイル名：`YYYY-MM-DD_title-in-kebab-case.md`
   - 例：`2024-07-16_css-formatter-migration.md`
-- 場所：`articles/published/`（公開用）または`articles/drafts/`（下書き）
+- 場所：`public/`ディレクトリ
+- 下書き状態：`private: true`を設定
+- 公開状態：`private: false`を設定
 
 ### 記事の構成
 1. 導入（問題提起や背景）
@@ -43,9 +46,9 @@
 
 ## 執筆プロセス
 1. アイデアの記録（`ideas/`ディレクトリ）
-2. 下書きの作成（`articles/drafts/`）
+2. 記事の作成（`public/`ディレクトリ、`private: true`で作成）
 3. レビューと推敲
-4. 公開用ディレクトリへの移動（`articles/published/`）
+4. 公開設定の変更（`private: false`に変更）
 5. Qiitaへの公開
 
 ## 記事のカテゴリ
@@ -81,7 +84,7 @@
 
 ## 更新履歴
 - 2025-05-21: メンテナンスガイドラインを追加
-- 2025-05-21: ディレクトリ構造を整理（articles/配下に drafts, published, archived を作成）
+- 2025-05-21: ディレクトリ構造を変更（articlesディレクトリをpublicディレクトリに統合）
 - 2025-05-21: 記事ファイル名の命名規則を策定（YYYY-MM-DD_title-in-kebab-case.md形式に統一）
 - 2025-05-21: プロジェクト概要とガイドラインを追加
 - 2024-07-18: 「ローカルでアイコンフォントをSVGから生成」記事を投稿

@@ -1,6 +1,5 @@
 {
   "includePrivate": false,
   "host": "localhost",
-  "port": 8888,
-  "directory": "articles/published"
+  "port": 8888
 }
