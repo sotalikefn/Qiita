@@ -2,12 +2,12 @@
 title: 日本郵政「デジタルアドレス」を使ってみた感想
 tags:
   - PHP
-  - 日本郵政
+  - RestAPI
   - デジタルアドレス
-  - RESTAPI
+  - 日本郵政
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-05-27T13:13:57+09:00'
+id: dfce603f474a941ae3e1
 organization_url_name: null
 slide: false
 ignorePublish: false
