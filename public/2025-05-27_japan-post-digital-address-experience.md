@@ -4,6 +4,7 @@ tags:
   - PHP
   - RestAPI
   - デジタルアドレス
+  - デジタルアドレスAPI
   - 日本郵政
 private: false
 updated_at: '2025-05-27T13:38:00+09:00'
