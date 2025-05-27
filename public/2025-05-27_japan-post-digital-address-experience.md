@@ -4,7 +4,7 @@ tags:
   - PHP
   - 日本郵政
   - デジタルアドレス
-  - REST API
+  - RESTAPI
 private: true
 updated_at: ''
 id: null
