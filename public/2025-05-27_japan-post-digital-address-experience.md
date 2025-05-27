@@ -2,12 +2,12 @@
 title: 日本郵政「デジタルアドレスAPI」を使ってみた感想
 tags:
   - PHP
-  - 日本郵政
+  - RestAPI
   - デジタルアドレス
-  - RESTAPI
+  - 日本郵政
 private: true
-updated_at: ''
-id: null
+updated_at: '2025-05-27T13:13:57+09:00'
+id: dfce603f474a941ae3e1
 organization_url_name: null
 slide: false
 ignorePublish: false
@@ -253,7 +253,6 @@ IPアドレスの登録もあるので嫌われがち。
 
 - **個人開発者向けプラン**：現在は法人限定だが、個人向けプランの提供
 - **権限管理の改善**：開発者権限の実装
-- **対応サービスの拡大**：より多くのWebサービスでの対応
 
 # 他サービスとの比較
 
@@ -277,6 +276,7 @@ IPアドレスの登録もあるので嫌われがち。
 
 - [日本郵便公式プレスリリース](https://www.post.japanpost.jp/notification/pressrelease/2025/00_honsha/0526_01.html)
 - [デジタルアドレス公式サイト](https://lp.da.pf.japanpost.jp/)
+- [郵便番号・デジタルアドレス for Biz](https://guide-biz.da.pf.japanpost.jp/)
 - [郵便番号・デジタルアドレスAPI](https://guide-biz.da.pf.japanpost.jp/api/)
 
 *この記事は2025年5月27日時点の情報に基づいています。サービス内容は今後変更される可能性があります。* 
