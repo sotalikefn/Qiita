@@ -4,10 +4,10 @@ tags:
   - PHP
   - RestAPI
   - デジタルアドレス
-  - デジタルアドレスAPI
   - 日本郵政
+  - デジタルアドレスAPI
 private: false
-updated_at: '2025-05-27T13:38:00+09:00'
+updated_at: '2025-05-27T13:40:46+09:00'
 id: dfce603f474a941ae3e1
 organization_url_name: null
 slide: false
