@@ -2,13 +2,13 @@
 title: CSSカスタムプロパティで色を定義するとき、HEXとRGBを一括で出力する書き方
 tags:
   - CSS
-  - SCSS
-  - カスタムプロパティ
-  - デザインシステム
+  - scss
   - フロントエンド
+  - デザインシステム
+  - カスタムプロパティ
 private: false
-updated_at: '2025-02-13T00:00:00+09:00'
-id: null
+updated_at: '2026-02-13T11:43:40+09:00'
+id: 123fc27d18ed4ad70262
 organization_url_name: null
 slide: false
 ignorePublish: false
