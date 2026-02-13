@@ -68,10 +68,10 @@ ignorePublish: false
 
 ```scss
 $colors: (
-  white: #fff,
-  black: #3b3b3b,
-  red: #dc3232,
-  blue: #476ba6,
+  'white': #fff,
+  'black': #3b3b3b,
+  'red': #dc3232,
+  'blue': #476ba6,
 );
 
 :root {
