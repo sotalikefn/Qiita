@@ -67,6 +67,8 @@ ignorePublish: false
 色マップ（`$colors`）を1箇所で定義し、`@each` でループしながら HEX と RGB の両方を出力します。
 
 ```scss
+@use 'sass:color';
+
 $colors: (
   'white': #fff,
   'black': #3b3b3b,
@@ -77,7 +79,10 @@ $colors: (
 :root {
   @each $name, $color in $colors {
     --#{$name}: #{$color};
-    --#{$name}-rgb: #{red($color)} #{green($color)} #{blue($color)};
+    --#{$name}-rgb:
+      #{color.channel($color, 'red', $space: rgb)}
+      #{color.channel($color, 'green', $space: rgb)}
+      #{color.channel($color, 'blue', $space: rgb)};
   }
 }
 ```
